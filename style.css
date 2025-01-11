@@ -1,0 +1,39 @@
+*{
+    font-family: "Open Sans", serif;
+    font-optical-sizing: auto;
+    font-variation-settings:
+      "wdth" 100;
+}
+
+/* nav section style start */
+nav{
+display: flex;
+justify-content: space-between;
+align-items: center;
+margin: 30px 160px;
+}
+
+.first-h4-style{
+font-weight: bold;
+font-size: 30px;
+}
+.btn-100{
+    color: #006A50;
+    border: 2px solid #006A50;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 15px 30px;
+    border-radius: 8px;
+}
+.btn-100:hover{
+    background-color: rgb(149, 214, 228);
+    color: black;
+}
+
+
+/* nav section style end */
+
+/* in header option */
+/* section first 
+    id name first-section
+ */
