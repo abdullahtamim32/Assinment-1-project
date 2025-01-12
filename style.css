@@ -226,3 +226,107 @@ background-color: #FFC239;
     background-color: rgba(0, 128, 0, 0.516);
 }
  /* forth next part box end */
+
+/* dr yunus image part start*/
+
+
+
+#dr-yunus-part{
+    background-image: url(assets/quote-bg.png);
+    background-repeat: no-repeat;
+    background-position: top left;
+    max-width: 95%;
+    margin: 80px 110px;
+display: flex;
+padding: 48px 24px;
+align-items: center;
+/* border: 2px solid; */
+box-shadow: 0px 0px 5px black;
+}
+.dr-ynus-big-part{
+font-size: 20px;
+font-weight: bold;
+color: #0E0E0E;
+}
+.dr-ynus-small-part{
+color: #0E0E0E;
+font-size: 16px;
+}
+
+
+/* dr yunus image part start */
+.dr-yunus-img{
+    border-radius: 10px;
+}
+/* dr yunus image part end */
+/* total dropdown option set */
+
+/*  */
+
+/* first h4 text start */
+#option-items{
+margin: 70px 160px;
+}
+.option-h4-text{
+    font-size: 37px;
+    font-weight: bold;
+    color: #0E0E0E;
+}
+
+/* first h4 text end */
+/* table part start */
+table{
+    display: inline-block;
+    border-collapse: collapse;
+    /* padding: 36px 24px; */
+    text-align: center;
+    
+}
+thead{
+    /* font-size: 30px; */
+}
+.th-two{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid;
+    padding: 24px;
+    font-size: 22px;
+    font-weight: 600;
+    background-color: rgb(198, 228, 214);
+   
+}
+tbody{
+    font-size: 16px;
+    color: #0E0E0E;
+    font-weight: bold;
+}
+tr,td,th{
+    border: 2px solid;
+    padding: 24px 50px;
+}
+select{
+    background-color: rgb(198, 228, 214);
+    padding: 10px;
+    border: none;
+    font-family: "Open Sans", serif;
+    font-size: 16px;
+    font-weight: 600;
+}
+/* table part end*/
+
+/* 6 number challange start */
+/* top 2 text start */
+.h3-tit{
+font-size: 37px;
+font-weight: bold;
+
+}
+.h3-title{
+font-size: 16px;
+color: #0E0E0E;
+}
+/* top 2 text end */
+/* 6 number challange end */
+
+
+ 
