@@ -76,12 +76,153 @@ font-size: 30px;
     background-color: #006A50;
     border-radius: 7px;
     color: white;
+    border: none;
 }
-
-
-
-
+.btn-2:hover{
+    background-color: rgb(149, 214, 228);
+    color: black;
+}
 /* section first 
     id name first-section
     section end
  */
+
+ /* 3rd section id name 
+ third-section-Pillars-of-Bangladesh20 start*/
+
+ /* # and first is in this 3rd section */
+
+
+.third-section-h3-20{
+font-weight: bold;
+font-size: 37px;
+margin: 80px 160px;
+
+}
+
+/* 4 boxes section class */
+/* main parent with flex */
+.section-of-ban10{
+display: flex;
+justify-content: center;
+max-width: 95%;
+/* justify-content: space-be; */
+gap: 40px;
+margin-left: 100px;
+
+/* justify-content: space-around; */
+
+}
+
+/* boxes part */
+.four-boxes{
+    box-shadow: 0px 0px 5px black;
+    padding: 20px;
+    border-radius: 15px;
+}
+.card-big-text{
+    font-weight: bold;
+    font-size: 20px;
+    color: #0E0E0E;
+}
+.card-small-text{
+    font-weight: 400;
+    font-size: 16px;
+    color: #0E0E0E;
+}
+
+ /* 3rd section id name 
+ third-section-Pillars-of-Bangladesh20 end*/
+
+
+ /* 4th main section start */
+
+.fourth-big-h3{
+color: #0E0E0E;
+font-weight: bold;
+font-size: 37px;
+margin: 80px 160px;
+}
+.smaller-text-4th{
+    color: #0E0E0E;
+    font-size: 16px;
+    font-weight: 400;
+    margin-left: 160px;
+}
+
+ /* 4th main section end */
+
+ /* forth next part box start */
+ #forth-section-next-part{
+display: flex;
+/* justify-content: center; */
+justify-content: center;
+margin-left: 30px;
+gap: 45px;
+
+
+
+ }
+ 
+  
+ .section-4-auto{
+    /* margin-left: 30px; */
+    margin-top: 32px;
+    border: 2px solid;
+    border-radius: 15px;
+    padding: 32px 50px;
+ }
+ .auto-1{
+    background-color: rgb(213, 225, 245);
+ }
+  .auto-2{
+    padding: 34px 60px;
+    background-color: rgb(198, 228, 214);
+  }
+  .auto-3{
+    padding: 34px 60px;
+    background-color: rgb(247, 235, 207);
+  }
+ .section-next-4-big-h3{
+color: #0E0E0E;
+font-size: 20px;
+font-weight: bold;
+
+
+ }
+ .section-next-4-small-para{
+color: #0E0E0E;
+font-size: 16px;
+
+ }
+ .section-4-btn-4 {
+color: white;
+font-weight: bold;
+font-size: 16px;
+border: none;
+padding: 11px 20px;
+border-radius: 8px;
+ }
+ .section-4-btn-1{
+background-color: #5490F5;
+ }
+.section-4-btn-2{
+background-color: #09A15C;
+}
+
+.section-4-btn-3{
+background-color: #FFC239;
+}
+.section-4-btn-1:hover{
+    color: rgb(238, 227, 12);
+    background-color: rgba(0, 128, 0, 0.516);
+}
+.section-4-btn-2:hover{
+    color: rgb(238, 227, 12);
+    background-color: rgba(0, 128, 0, 0.516);
+}
+.section-4-btn-3:hover{
+    color: rgb(238, 227, 12);
+    background-color: rgba(0, 128, 0, 0.516);
+}
+ /* forth next part box end */
